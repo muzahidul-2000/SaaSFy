@@ -31,20 +31,20 @@ Write articles, generate images, edit photos, and optimize resumes — all in on
 ## 🎨 Screenshots / Demo
 <table>
   <tr>
-    <td><img src="./public/preview/1.jpg" width="100%"></td>
-    <td><img src="/public/preview/2.jpg" width="100%"></td>
+    <td><img src="client/public/preview/1.jpg" width="100%"></td>
+    <td><img src="client/public/preview/2.jpg" width="100%"></td>
  
   </tr>
     <tr>
-      <td><img src="/public/preview/3.jpg" width="100%"></td>
-      <td><img src="/public/preview/4.jpg" width="100%"></td>
+      <td><img src="client/public/preview/3.jpg" width="100%"></td>
+      <td><img src="client/public/preview/4.jpg" width="100%"></td>
   </tr>
   <tr>
-     <td><img src="/public/preview/about.jpg" width="100%"></td>
-     <td><img src="/public/preview/dashboard.jpg" width="100%"></td>
+     <td><img src="client/public/preview/about.jpg" width="100%"></td>
+     <td><img src="client/public/preview/dashboard.jpg" width="100%"></td>
   </tr>
   <tr>
-     <td><img src="/public/preview/plan.jpg" width="100%"></td>
+     <td><img src="client/public/preview/plan.jpg" width="100%"></td>
      <!-- <td><img src="/public/preview/dashboard.jpg" width="100%"></td> -->
   </tr>
 </table>
