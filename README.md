@@ -143,11 +143,3 @@ Your feedback makes SaaSFy better.</p>
 
 <h2>📄 License</h2>
 <p>MIT License © 2025 Muzahidul Islam</p>
-
-
-
-
-<hr>
-
-<h2>📄 License</h2>
-<p>MIT License © 2025 Muzahidul Islam</p>
